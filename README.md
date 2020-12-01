@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.Imputer-from-skratch)
+
 # Imputer from Scratch
 
 <h1>Table of Contents<span class="tocSkip"></span></h1>
